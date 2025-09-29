@@ -1,6 +1,6 @@
 # LedBox V2 | StanleyProjects.com
-[![](https://stanleyprojects.com/projects/ledbox_v2/ledbox_renders.png)](https://stanleyprojects.com/projects/ledbox_v2)
-[![](https://stanleyprojects.com/projects/ledbox_v2/collage.png)](https://stanleyprojects.com/projects/ledbox_v2)
+[![](https://stanleyprojects.com/projects/ledbox-v2/ledbox_renders.png)](https://stanleyprojects.com/projects/ledbox-v2)
+[![](https://stanleyprojects.com/projects/ledbox-v2/collage.png)](https://stanleyprojects.com/projects/ledbox-v2)
 
 # Introduction
 LedBox V2 / V2.1 is a fully contained, sound reactive, ESP32 based module for controlling 5-12V addressable LED strips (WS281x, SK6812, etc.), supporting both 3-(VDD,DAT,GND) and 4-(VDD,DAT,CLK,GND) wire configuration.
@@ -16,9 +16,9 @@ LedBox V2.1 has these additional features:
 Purchased module comes with the latest version of sound-reactive firmware.
 
 # Specification
-![](https://stanleyprojects.com/projects/ledbox_v2/table1.png)
-![](https://stanleyprojects.com/projects/ledbox_v2/thumbnails/LedBox_V2.x_description.png)
-![](https://stanleyprojects.com/projects/ledbox_v2/table2.png)
+![](https://stanleyprojects.com/projects/ledbox-v2/table1.png)
+![](https://stanleyprojects.com/projects/ledbox-v2/thumbs/LedBox_V2.x_description.png)
+![](https://stanleyprojects.com/projects/ledbox-v2/table2.png)
 
 ## Firmware versions
 The original precompiled SR WLED firmware has a disabled IR control. Therefore, it is recommended to use builds from this repo, which are compiled with correct pin/microphone settings and IR control support, to work with the module straight out of the box.
@@ -32,7 +32,7 @@ The firmware is compatible with both, V2 and V2.1.
 |0.12.0|[LedBoxV2_SR_WLED_0.12.0.bin](https://github.com/stanleyondrus/LedBoxV2/releases/download/v0.12.0/LedBoxV2_SR_WLED_0.12.0.bin)|
 
 # Documentation
-#### The full documentation can be found at https://stanleyprojects.com/projects/ledbox_v2/
+#### The full documentation can be found at https://stanleyprojects.com/projects/ledbox-v2/
 #### To stay in touch, get updates, or ask for help, visit https://fb.me/stanleyprojectscom
 
 ## Explanation video
